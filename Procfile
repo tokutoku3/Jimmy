@@ -1,1 +1,1 @@
-web: bin/hubot -a slack -n Jimmy
+web: bin/hubot -a slack -n jimmy
